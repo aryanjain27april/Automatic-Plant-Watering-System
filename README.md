@@ -9,3 +9,5 @@ System Using Microcontroller:
 System Using Arduino:
 
 ![](Proteus_Images/Arduino.png)
+
+Presentation: https://github.com/aryanjain27april/Automatic_Plant_Watering_System/blob/main/Presentation/Plant%20Watering%20System.pdf
