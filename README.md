@@ -3,7 +3,7 @@ Automatic Plant watering system will serve the following purposes:
 2) The plants are watered automatically only when there is not enough moisture in the soil. Thus, the users can do their work without having to take out time for watering their plants.
 
 System Using Microcontroller:
-![](Proteus_Images\At_MC.png)
+![](Proteus_Images/At_MC.png)
 
 System Using Arduino:
-![](Proteus_Images\Arduino.png)
+![](Proteus_Images/Arduino.png)
