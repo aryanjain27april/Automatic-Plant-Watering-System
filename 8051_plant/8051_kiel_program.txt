@@ -1,0 +1,20 @@
+#include<reg51.h>
+sbit motor  = P2^1;    
+sbit soil =P1^1;  
+int main()
+{
+    motor  = 0; //configuring as output pin
+    soil = 1; //Configuring as input pin
+    while(1) //Continuous monitor the status of the switch.
+    {
+        if(soil == 0)
+        {
+            motor =1; //motor On
+        }
+        else
+        {
+            motor =0; //motor Off
+        }
+    }
+    return 0;
+}
